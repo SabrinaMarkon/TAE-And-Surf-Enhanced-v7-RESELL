@@ -1,4 +1,4 @@
-TAE-And-Surf-Enhanced-v7-RESELL (legacy)
+TAE-And-Surf-Enhanced-v7-RESELL (legacy 2010)
 
 Enhanced Text Ad Exchange Advertising and Surf site script - 7th major version with resell rights. PHP 5.4 compatible.
 
